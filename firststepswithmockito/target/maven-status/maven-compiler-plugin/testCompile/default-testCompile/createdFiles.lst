@@ -1,0 +1,7 @@
+br/project/test/service/stubs/CourserServiceStub.class
+br/project/test/business/CourseBusinessMockTest.class
+br/project/test/service/MyUtilsTest.class
+br/project/test/business/ListTest.class
+br/project/test/business/CourseBusinessMockWithBDDTest.class
+br/project/test/business/CourseBusinessStubTest.class
+br/project/test/service/OrderServiceTest.class

@@ -1,0 +1,5 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+firststepswithmockito,br.project.test.service,MyUtils,8,0,2,0,1,0,2,0,1,0
+firststepswithmockito,br.project.test.service,OrderService,1,25,1,1,0,7,1,2,0,2
+firststepswithmockito,br.project.test.model,Order,0,31,0,0,0,13,0,9,0,9
+firststepswithmockito,br.project.test.business,CourseBusiness,0,24,0,0,0,9,0,4,0,4
